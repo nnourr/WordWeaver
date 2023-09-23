@@ -1,0 +1,4 @@
+flask
+cohere
+dotenv
+flask-cors
